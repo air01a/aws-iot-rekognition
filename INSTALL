@@ -1,0 +1,9 @@
+1. Install tool chain from scratch (https://docs.espressif.com/projects/esp-idf/en/latest/get-started/linux-setup.html)
+2. Check which version of IDF and IDF-Arduino are compatible (check for the keyword IDF in IDF Arduino commit to see the latest supported version)
+3. Get the correct version of IDF
+4. Install the Arduino components (https://github.com/espressif/arduino-esp32) in the directory components
+5. Install esp32-camera (https://github.com/espressif/esp32-camera) components in the directory components
+
+Compile project with idf.py build
+Flash with idf.py flash
+
