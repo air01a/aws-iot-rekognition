@@ -1,8 +1,7 @@
 /**
    AWS S3 OTA Update
-   Date: 14th June 2017
-   Author: Arvind Ravulavaru <https://github.com/arvindr21>
-   Purpose: Perform an OTA update from a bin located in Amazon S3 (HTTP Only)
+   
+   Based on  Arvind Ravulavaru <https://github.com/arvindr21>
 
    Upload:
    Step 1 : Download the sample bin file from the examples folder
